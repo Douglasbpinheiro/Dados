@@ -1,3 +1,5 @@
 # Dados
 
-Listar as bases e projetos aqui
+Aqui sao armazenadas as bases e especificações das mesmas
+
+
